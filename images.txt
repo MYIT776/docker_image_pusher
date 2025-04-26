@@ -5,3 +5,11 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 langgenius/dify-api
+sandbox
+web
+weaviate
+worker
+redis
+db
+ssrf_proxy
+nginx
